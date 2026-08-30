@@ -1,1 +1,2 @@
 # Projeto-Integrador-Frontend-Andre-Vitor
+Esse projeto é uma página de receitas culinárias desenvolvido para a disciplina de Front-End. O objetivo é apresentar receitas culinárias de forma simples, formas de preparo e dicas práticas. A página conta com seções sobre cada receita, incentivando o leitor a dominar a prática culinária.
